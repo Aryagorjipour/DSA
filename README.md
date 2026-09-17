@@ -23,9 +23,7 @@ The map of the whole list is [[Dependency-ordered map of DSA]].
 Keep every topic note to five sections. Nothing else is required.
 
 ```md
-# Array
-
-Kind: DS
+---
 
 ## What
 One sentence. What it stores and what it makes cheap.

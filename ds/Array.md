@@ -1,7 +1,8 @@
-# Array
-
-Kind: DS
-
+---
+title: Array
+kind:
+  - DS
+---
 ## What
 Fixed-length contiguous block of slots. Index `i` is address arithmetic, so access is O(1).
 
