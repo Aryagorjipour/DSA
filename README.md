@@ -24,6 +24,10 @@ Keep every topic note to five sections. Nothing else is required.
 
 ```md
 ---
+title: Array
+kind:
+  - DS
+---
 
 ## What
 One sentence. What it stores and what it makes cheap.
