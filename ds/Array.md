@@ -8,12 +8,9 @@ Fixed-length contiguous block of slots. Index `i` is address arithmetic, so acce
 
 ## Picture
 
-```mermaid
-flowchart LR
-    i0["0: a"] --- i1["1: b"] --- i2["2: c"] --- i3["3: d"]
-```
+![[Array.png]]
 
-Index `i` → address `base + i * size`. Drop a png in `attachments/` and replace this block with `![[array.png]]` if you want a drawn figure.
+> Index `i` → address `base + i * size`.
 
 ## Must know
 - Layout is contiguous. That is why scans are cache-friendly and why insert/delete in the middle costs O(n) shifts.

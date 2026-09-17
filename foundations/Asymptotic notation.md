@@ -1,16 +1,14 @@
-# Asymptotic notation
-
-Kind: Foundation
-
+---
+title: Asymptotic notation
+kind:
+  - Foundation
+---
 ## What
 How time and space grow with input size `n`. Worst case by default unless you say otherwise.
 
 ## Picture
 
-```mermaid
-flowchart LR
-    c["O(1)"] --> log["O(log n)"] --> lin["O(n)"] --> nlog["O(n log n)"] --> quad["O(n²)"] --> exp["O(2ⁿ)"]
-```
+![[Asymptotic notation.png]]
 
 ## Must know
 - O = upper bound. Ω = lower bound. Θ = tight.
