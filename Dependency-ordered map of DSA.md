@@ -11,7 +11,7 @@
 
 ---
 
-## 0. Foundations (do this first)
+## 0. Foundations ([[foundations/Index|do this first]])
 
 **Must know before item 1:**
 
